@@ -5,4 +5,4 @@
 
 - [x] something next to it
 - [x] another thing next to it
-- [x] do a bijillion things next to it.
+- [ ] do a bijillion things next to it.
