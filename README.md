@@ -1,5 +1,5 @@
 # just sophie yapping :) 
-checklist- 
+## checklist- 
 - [x] logged into github
 - [x] create read me file
 - [x] first name
