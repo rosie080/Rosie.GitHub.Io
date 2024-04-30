@@ -4,8 +4,8 @@
 - [x] create read me file
 - [x] first name
 - [x] fimage
-- [ ] create html file
-- [ ] add like to hello world file
+- [x] create html file
+- [x] add like to hello world file
 
 [helloworld](https://rosie080.github.io/helloworld/)
 ### hello.
