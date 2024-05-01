@@ -6,6 +6,7 @@
 - [x] fimage
 - [x] create html file
 - [x] add like to hello world file
+- [ ] add color to my hello world page
 
 [helloworld](https://rosie080.github.io/helloworld/)
 ### hello.
