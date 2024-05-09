@@ -5,7 +5,7 @@
 
 [rubric](https://rosie080.github.io/index.html/)
 ### hello.
-![kitchen](https://images.app.goo.gl/CgD8RCHaZo9W1P486)
+![kitchen](https://images.app.goo.gl/iyHNiD1GLMrbfSVT6)
 
 ## checklist- 
 - [x] logged into github
