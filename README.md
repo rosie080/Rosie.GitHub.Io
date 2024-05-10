@@ -2,6 +2,7 @@
 
 
 [Sweet Chili Chicken and Rice!](https://rosie080.github.io/helloworld/)
+[cheesy tomato pasta](https://rosie080.github.io/html.index/)
 
 [rubric](https://rosie080.github.io/index.html/)
 ### hello.
