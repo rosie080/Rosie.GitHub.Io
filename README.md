@@ -5,6 +5,8 @@
 
 [cheesy tomato pasta](https://rosie080.github.io/html.index/)
 
+[green soup](https://rosie080.github.io/helloworld/)
+
 [rubric](https://rosie080.github.io/index.html/)
 ### hello.
 ![kitchen](https://images.app.goo.gl/iyHNiD1GLMrbfSVT6)
