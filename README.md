@@ -5,7 +5,7 @@
 
 [cheesy tomato pasta](https://rosie080.github.io/html.index/)
 
-[green soup](https://rosie080.github.io/greensoup./)
+[green soup](https://rosie080.github.io/pan.soup/)
 
 [rubric](https://rosie080.github.io/index.html/)
 ### hello.
