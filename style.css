@@ -10,13 +10,7 @@ background-repeat: no repeat;
   display: flex;
   align-items: center;
 }
-}
 
-h1{
-  color: white;
-  text-align: center;
-  font-family: verdana;
-}
 
 p {
   color: white;
@@ -24,8 +18,9 @@ p {
   font-family: Verdana;
   font-size: 20px;
 }
-h2{
+h2, h1{
  color: white;
+    text-align: center;
   font-family: verdana;
 }
 li{
