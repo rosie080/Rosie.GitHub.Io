@@ -1,11 +1,7 @@
 # Rosie's Kitchen!
 
 
-[Sweet Chili Chicken and Rice!](https://rosie080.github.io/helloworld/)
-
-[cheesy tomato pasta](https://rosie080.github.io/html.index/)
-
-[green soup](https://rosie080.github.io/pan.soup/)
+[Home Page!](https://rosie080.github.io/homepage/)
 
 [rubric](https://rosie080.github.io/index.html/)
 ### hello.
