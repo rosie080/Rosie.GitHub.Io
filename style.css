@@ -18,7 +18,14 @@ p {
   font-family: Verdana;
   font-size: 20px;
 }
-h2, h1{
+ h1{
+  background-color: DarkBlue;
+color: white;
+  text-align: center;
+  font-family: verdana;
+}
+ h1{
+  background-color: DarkCyan;
 color: white;
   text-align: center;
   font-family: verdana;
