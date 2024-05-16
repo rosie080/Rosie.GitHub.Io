@@ -21,13 +21,13 @@ p {
  h1{
   background-color: lightblue;
 color: white;
-  text-align: left;
+  text-align: center;
   font-family: verdana;
 }
  h2{
-  background-color: DarkCyan;
+  background-color: Cyan;
 color: white;
-  text-align: left;
+  text-align: center;
   font-family: verdana;
 }
 li{
